@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: #eee;
+}
+
+.myForm {
+  margin: 100px auto;
+  max-width: 500px;
+  box-shadow: 2px 2px 2px 2px gray;
+  
+}
+
+.myForm form{
+  text-align: center;
+  padding: 20px;
+}
+
+.myForm button{
+  width: 440px;
+  background-color: #2366CF;
+  color: #fff;
+  padding: 5px;
+  margin-top: 10px;
+}
+
+.userData{
+  margin: 30px 28px;
+  padding: 20px 25px;
+  box-shadow: 1px 1px 1px 1px gray;
+  max-width: 96%;
+
+}
+
+
+.IndexPage .user-page{
+  background-color:#2366CF;
+  padding: 20px;
+  font-size: larger;
+  color: #fff;
+  margin: 10px 30px 30px 30px;
+  border-radius: 5px;
+}
+
+.table{
+  margin: 30px 40px
+}
+
+.show-page h5{
+  background-color: #2366CF;
+  padding: 20px;
+  font-size: larger;
+  color: #fff;
+  margin: 10px 30px 30px 30px;
+  border-radius: 5px;
+}
+
+.show-page .details{
+  margin: 0px 30px;
+  box-shadow: 1px 1px 1px 1px gray;
+  max-width: 96%;
+  padding: 25px
+}
+
+.show-page table span{
+  font-weight: 550;
+  font-size: medium;
+}
+
+.show-page table td{
+  padding: 10px 30px
+}
+
+.show-page table td{
+  font-size: small;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.show-page button{
+  background-color: #2366CF;
+  width: 100px;
+  color: #fff;
+  padding: 8px;
+  margin: 40px 44%;
+}
