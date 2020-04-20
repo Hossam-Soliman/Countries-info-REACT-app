@@ -3,7 +3,7 @@ import {connect} from 'react-redux'
 import axios from 'axios'
 import {Link} from 'react-router-dom'
 
-const IndexPage = ({newUser}) => {                                   //I've passed the newUser coming from redux store as props
+const IndexPage = ({newUser}) => {                                   //I've passed the newUser which is coming from redux store as props
 
     const [countries, setCountries] = useState([]);
 
