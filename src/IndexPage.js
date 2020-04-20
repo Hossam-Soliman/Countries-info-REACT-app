@@ -59,7 +59,6 @@ const IndexPage = ({newUser}) => {                                   //I've pass
                     </table>
                 </div>
         </div> 
-
     );
 }
  
